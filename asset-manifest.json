@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/krrish97-svg/RE-ZERO/static/css/main.92288762.css",
+    "main.js": "/krrish97-svg/RE-ZERO/static/js/main.fa55eda7.js",
+    "index.html": "/krrish97-svg/RE-ZERO/index.html",
+    "main.92288762.css.map": "/krrish97-svg/RE-ZERO/static/css/main.92288762.css.map",
+    "main.fa55eda7.js.map": "/krrish97-svg/RE-ZERO/static/js/main.fa55eda7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92288762.css",
+    "static/js/main.fa55eda7.js"
+  ]
+}
