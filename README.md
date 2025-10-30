@@ -65,18 +65,10 @@ Category	Tools / Libraries
 Frontend	HTML, CSS, JavaScript, p5.js / D3.js
 Visualization	D3.js (Dynamic Graph), p5.js (Animated Paths)
 Algorithm Implementation	C++ (Optimized Dijkstra / BFS / DFS)
-Deployment	Vercel / GitHub Pages
+Deployment GitHub Pages
 Media	MP4 background integrated using <video> tag
 Version Control	Git + GitHub
-🤖 AI Tools Used
-Tool	Purpose
-V0.dev (by Vercel)	Generated responsive landing page structure with AI components.
-Durable.co	Created initial layout + CTA sections using AI landing page generator.
-Unbounce AI Builder	Helped prototype MP4 background landing page quickly.
-ChatGPT (GPT-5)	Used for algorithm explanations, code optimization, and content generation.
-Uizard.io	AI wireframing for layout design of the “Checkpoints” and “Timelines” tabs.
-Runway ML	Used for enhancing and optimizing the MP4 background video loop.
-🧪 How to Run the Project
+
 
 Clone the repository
 
