@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/krrish97-svg/RE-ZERO",
+  "homepage": "https://krrish97-svg.github.io/RE‑ZERO",
   "dependencies": {
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.4.0",
