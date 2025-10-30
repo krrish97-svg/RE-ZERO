@@ -1,10 +1,10 @@
-#🌀 Re:Zero – Subaru’s Checkpoint Save States
+🌀 Re:Zero – Subaru’s Checkpoint Save States
 “Every death rewinds time, but every choice changes fate.”
 
 An interactive visualization and algorithmic simulation inspired by Re:Zero: Starting Life in Another World.
 This project models Subaru Natsuki’s Return by Death mechanic as a weighted decision tree, using graph algorithms to find the optimal path (minimum deaths) to reach salvation.
 
-#🚀 Project Overview
+🚀 Project Overview
 
 Subaru’s decisions create multiple branching timelines — each representing a possible future.
 Each transition between two states has a death cost, and Subaru wants to minimize his suffering while reaching his goal.
